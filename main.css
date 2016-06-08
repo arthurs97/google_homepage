@@ -1,0 +1,13 @@
+#topbar{
+	background-color: #000;
+	height: 40px;
+
+}
+
+.col-centered{
+
+	float: none;
+	width: 400px;
+	margin: 0 auto;
+	margin-top: 110px;
+}
